@@ -1,0 +1,36 @@
+#root {
+  background:#dddd;
+  text-align:center;
+  max-width:500px;
+  margin:0 auto;
+  padding:10px;
+  font-family:'pretendard','san-serif';
+}
+#root #wrap {
+}
+#wrap h1 {
+  font-size:1rem;
+  font-weight:800;
+}
+main h1 {
+}
+main p {
+  text-align:left;
+}
+main nav a {
+  margin-right:15px;
+  border-bottom:1px solid #333;
+  color:#333;
+}
+main nav a:last-child {
+  margin-right:0
+}
+main img {
+  width:100%;
+}
+main img ul {}
+main img ul li {}
+nav {}
+#wrap p {
+  text-align:left;
+}
